@@ -17,7 +17,7 @@ I used Html, CSS and JavaScript
 {Make a list of websites that you found helpful in this project}
 
 - Web Site Name: (https://validator.w3.org/)
-- Web Site Name: (http://chatgpt.com) Chat GPT was mainly used to get information on how to build the css to look better and get color codes
+- Web Site Name: (http://chatgpt.com) Chat GPT was mainly used to get information on how to build the css to look better and get color codes and get recommendations.
 
 # Future Work
 
